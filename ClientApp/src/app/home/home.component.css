@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: #3F51B7;
+  color: #FFF
+}
+
+.jumbotron h1 {
+    margin-bottom: 1.5rem;
+}
+
+i.material-icons {
+  font-size: 4rem;
+  color: #ff4081;
+}
+
+img.about-image {
+    width: 300px;
+    height: 300px;
+}
